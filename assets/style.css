@@ -1,9 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk:wght@300;400&display=swap');
 
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
 body {
    font-family: 'Space Grotesk', sans-serif;
     height: 100%;
+    background-color: #FAFAFA;
+    max-width: 100%;
+    overflow-x: hidden;
 }
+
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #FAFAFA;
@@ -41,7 +57,7 @@ body {
 .topnav #gstarted{
     background-color: #2549D3;
     border: none;
-   float: right;
+    float:right;
     margin-right: 150px;
     color: white;
     padding: 10px 10px;
@@ -58,10 +74,15 @@ h1,h2,h3,h4,h5,h6{
 
 .header {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     margin-top: 60px;
 }
+
+.header .text{
+    text-align:left;
+    margin-top: 60px;
+}
+
 img {
     max-width: 100%
 }
@@ -117,9 +138,23 @@ margin-left: 75px;
 #one,#two,#three{
     grid-row: 1 / span 1;
 }
-product{
+
+
+.products{
+    margin-top:80px;
+    margin-bottom:80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.products .lead{
+    color:grey;
+}
+
+
+.product{
     display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: center;
     margin-top: 60px;
 
@@ -130,13 +165,21 @@ product{
     max-width: 300px;
     margin: auto;
     text-align: center;
+    padding:100px 60px;
 
 }
 
-img {
-    border-radius: 5px 5px 0 0;
+.product img {
+    height:100px;
     position: center;
+    padding-bottom:30px;
 }
+
+.product .card h3{
+    color:#000000;
+    padding-bottom:10px;
+}
+
 
 .container {
     padding: 2px 16px;

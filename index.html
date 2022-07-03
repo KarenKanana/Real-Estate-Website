@@ -14,13 +14,16 @@
 
 <body class="container">
     <div class="topnav">
-        <a id="logo">Vallie's Estate</a>
-        <a class="active" href="#home">Home</a>
-        <a href="#rent">Rent</a>
-        <a href="#Land">Land</a>
-        <a href="#Agent">Agent</a>
-        <a href="#Agent">Contact Us</a>
-        <button type="button" id="gstarted" class="button-started">Get Started</button>
+        <div class="menu">
+            <a id="logo">Vallie's Estate</a>
+            <a class="active" href="#home">Home</a>
+            <a href="#rent">Rent</a>
+            <a href="#Land">Land</a>
+            <a href="#Agent">Agent</a>
+            <a href="#Agent">Contact Us</a>
+        </div>
+        <button type="button" id="gstarted" class="button-started pull-right">Get Started</button>
+        
     </div>
     <div class="header">
 
@@ -30,8 +33,12 @@
                 <br>dreams.</h1><br>
             <p>Creating quality urban lifestyles, building <br> stronger communities</p>
             <br>
-            <button type="button" class="action">Learn More</button>
-            <i class="fa fa-play-circle" style="font-size:48px;"></i>
+            <div class="cta">
+                <button type="button" class="action" style="margin-right:8px">Learn More</button>
+                <div class="play">
+                    <i class="fa fa-play-circle" style="font-size:45px; "></i>
+                </div>
+            </div>
         </div>
         <div class="image">
             <img src="assets/images/image%201.png" alt="header">
@@ -39,12 +46,13 @@
     </div>
     <div class="locations">
 
-        <h3 id="one">Location</h3>
-        <h3 id="two">Property Type</h3>
-        <h3 id="three">Max Price</h3>
-        <h3 id="four">Location</h3>
+            <h3 id="one">Location<i class="fa fa-caret-down" aria-hidden="true"></i></h3>
+            <h3 id="two">Property Type <i class="fa fa-caret-down" aria-hidden="true"></i></h3>
+            <h3 id="three">Max Price <i class="fa fa-caret-down" aria-hidden="true"></i></h3>
+            <h3 id="four">Location <i class="fa fa-caret-down" aria-hidden="true"></i></h3>
 
-        <button type="button" class="action">Search</button>
+        <button type="button" class="action"><i class="fa fa-search" aria-hidden="true"></i>
+            Search</button>
 
     </div>
 
@@ -87,12 +95,11 @@
             <p>Creating quality urban lifestyles, building stronger <br>communities</p>
             <div class="why-check">
                 <ul>
-                    <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                    <i class="fa fa-check-square-o" style="margin-right:7px" aria-hidden="true"></i>
                     World class
                     <i class="fa fa-check-square-o" aria-hidden="true"></i>
                     Trusted
-                </ul>
-                <ul>
+              
                     <i class="fa fa-check-square-o" aria-hidden="true"></i>
                     Affordable
                     <i class="fa fa-check-square-o" aria-hidden="true"></i>
@@ -139,7 +146,6 @@
             <div class="pull-right">
                 <button type="button" class="action">View more</button>
             </div>
-
         </div>
     
     

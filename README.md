@@ -1,8 +1,4 @@
 # Vallie's Estate Landing page
-Helping you find the property of your dreams.
-Creating quality urban lifestyles, building stronger communities.
-
-
 This is an interactive landing page of a cloud-enabled, mobile-ready, interface compatible website that helps you find property of your choice based on location, property type and prices.
 
 ## Features

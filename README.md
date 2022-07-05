@@ -17,26 +17,26 @@ This is an interactive landing page of a cloud-enabled, mobile-ready, interface 
 
 ## Tech
 
-Vallie's  uses the following tech to work properly:
+Vallie's Estate website landing page  uses the following tech to work properly:
 
 - [HTML]
 - [CSS]
 
 ## Setup Instructions
-# How to run the application locally on your computer.
+### How to run the application locally on your computer.
 - Go to GitHub repository link: https://github.com/KarenKanana/Real-Estate-Website
 - Clone the repo {git clone git@github.com:domooh9/weatherApp.git}
 - Navigate to index.html and open it in your browser
 - Internet connection is needed to run index.html succesfully
 
-# How to run the application web link.
+### How to run the application web link.
 - open the link https://karenkanana.github.io/Real-Estate-Website/ in your browser
 - The application is a web based application.
 - It requires user to have an internet connection
 - Any internet browsercan run the application
 - Use the above link in your browser to access the application.
 
-# License
+## License
 Copyright (c) [2022] [Karen Kanana]
 The application is open source, no lincense required.
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

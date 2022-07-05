@@ -15,8 +15,8 @@ This is an interactive landing page of a cloud-enabled, mobile-ready, interface 
 
 Vallie's Estate website landing page  uses the following tech to work properly:
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 
 ## Setup Instructions

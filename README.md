@@ -20,16 +20,12 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 
 
 ## Setup Instructions
+
 ### How to run the application locally on your computer.
-<<<<<<< HEAD
 - Open your terminal.
 - Clone the repository `git clone git@github.com:KarenKanana/Real-Estate-Website.git`
+- `cd Real-Estate-Website`
 - Navigate to index.html file and open it in your browser.
-=======
-- `Go to GitHub repository link: https://github.com/KarenKanana/Real-Estate-Website`
-- Clone the repo {git clone git@github.com:KarenKanana/Real-Estate-Website.git}
-- Navigate to index.html and open it in your browser
->>>>>>> b37006784df7f5b2c8282b7edd0bedf6a988a171
 - Internet connection is needed to run index.html succesfully
 
 ### How to run the application web link.
@@ -41,7 +37,7 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 
 
 ## Copyright and license information
-MIT License
+[MIT License](https://github.com/KarenKanana/Real-Estate-Website/blob/master/license)Copyright (c) 2022 Karen Kanana
 
 
 ## Authors

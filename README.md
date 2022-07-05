@@ -21,7 +21,7 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 ## Setup Instructions
 ### How to run the application locally on your computer.
 - Go to GitHub repository link: https://github.com/KarenKanana/Real-Estate-Website
-- Clone the repo {git clone git@github.com:domooh9/weatherApp.git}
+- Clone the repo {git clone git@github.com:KarenKanana/Real-Estate-Website.git}
 - Navigate to index.html and open it in your browser
 - Internet connection is needed to run index.html succesfully
 
@@ -29,8 +29,8 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 - open the link https://karenkanana.github.io/Real-Estate-Website/ in your browser
 - The application is a web based application.
 - It requires user to have an internet connection
-- Any internet browsercan run the application
-- Use the above link in your browser to access the application.
+- Any internet browser can run the application.
+- Use the above link on your browser to access the application.
 
 ## License
 Copyright (c) [2022] [Karen Kanana]

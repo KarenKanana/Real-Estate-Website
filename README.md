@@ -22,8 +22,10 @@ Author: Karen Kanana Muthomi
 License: MIT
 
 Website URL : https://karenkanana.github.io/Real-Estate-Website/
-# RayHousing
-## _house search made easier_
+# Vallie's Estate Landing page
+# Helping you find the property of your dreams.
+Creating quality urban lifestyles, building stronger communities.
+
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)

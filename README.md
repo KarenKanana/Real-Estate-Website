@@ -37,8 +37,8 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 
 
 ## Copyright and license information
----[MIT License](https://github.com/KarenKanana/Real-Estate-Website/blob/master/license)
----Copyright (c) 2022 Karen Kanana
+>[MIT License](https://github.com/KarenKanana/Real-Estate-Website/blob/master/license)
+>Copyright (c) 2022 Karen Kanana
 
 
 ## Authors

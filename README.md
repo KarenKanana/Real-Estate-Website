@@ -1,84 +1,56 @@
-
-Vallie's Estate Landing page
+# Vallie's Estate Landing page
 Helping you find the property of your dreams.
 Creating quality urban lifestyles, building stronger communities.
 
 
-Vallie's Estate is a real estate website.
-
-
-Features
-User Account creations(Landlords,Agents)
-User checkout and payments
-
-Tech
-Vallie's Estate web application uses the following tech to work properly:
-
-HTML
-CSS
-
-Author: Karen Kanana Muthomi
-
-License: MIT
-
-Website URL : https://karenkanana.github.io/Real-Estate-Website/
-
-# Vallie's Estate Landing page
-# Helping you find the property of your dreams.
-Creating quality urban lifestyles, building stronger communities.
-
-
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-RayHousing is a cloud-enabled, mobile-ready, interface compatible software.
-
-Powered by Django.
-
+This is an interactive landing page of a cloud-enabled, mobile-ready, interface compatible website that helps you find property of your choice based on location, property type and prices.
 
 ## Features
 
-- User Account creations(Landlords,Tenants)
-- House search and addition to cart
-- User checkout and payments
-- Mpesa and Paypal Integrations
+- House search based on location, property type and price.
+- User Account creations(Agents,Tenants)
+- View products.
+- Featured products.
+- Clients portfolio.
+- Contact agent.
 
 
 ## Tech
 
-RayHosuing uses the following tech to work properly:
+Vallie's  uses the following tech to work properly:
 
-- [Django]
 - [HTML]
 - [CSS]
-- [Bootstrap]
-- [Javascript]
 
-## Installation
+## Setup Instructions
+# How to run the application locally on your computer.
+- Go to GitHub repository link: https://github.com/KarenKanana/Real-Estate-Website
+- Clone the repo {git clone git@github.com:domooh9/weatherApp.git}
+- Navigate to index.html and open it in your browser
+- Internet connection is needed to run index.html succesfully
 
-RayHousing requires [Django](https://www.djangoproject.com/start/overview/) v2.2.24+ to run.
+# How to run the application web link.
+- open the link https://karenkanana.github.io/Real-Estate-Website/ in your browser
+- The application is a web based application.
+- It requires user to have an internet connection
+- Any internet browsercan run the application
+- Use the above link in your browser to access the application.
 
-Activate the environment and Install the dependencies and devDependencies and start the server.
+# License
+Copyright (c) [2022] [Karen Kanana]
+The application is open source, no lincense required.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-NOTICE: 
-Go throught this before proceeding so as to ssee how to Set up a virtual environment.
-then proceed with the instructions after activating the environment
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-https://docs.djangoproject.com/en/3.2/howto/windows/
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-```sh
-cd ray_housing
+## Support and contact details
+For any further clarification and support contact:
 
-virtualenv env ( you will need to install the virtualenv package here(https://programwithus.com/learn/python/pip-virtualenv-windows))
+Email: kananakaren21@gmail.com 
 
-source env/bin/activate ( use this if you are on a linux OS)
 
-venv\Scripts\activate ( use this if you are on a windows OS)
-
-pip install -r requirements.txt
-
-python3 manage.py runserver
-```
 
 
 

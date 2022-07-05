@@ -22,6 +22,7 @@ Author: Karen Kanana Muthomi
 License: MIT
 
 Website URL : https://karenkanana.github.io/Real-Estate-Website/
+
 # Vallie's Estate Landing page
 # Helping you find the property of your dreams.
 Creating quality urban lifestyles, building stronger communities.

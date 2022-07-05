@@ -18,6 +18,7 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 - [HTML]
 - [CSS]
 
+
 ## Setup Instructions
 ### How to run the application locally on your computer.
 - Go to GitHub repository link: https://github.com/KarenKanana/Real-Estate-Website
@@ -32,6 +33,7 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 - Any internet browser can run the application.
 - Use the above link on your browser to access the application.
 
+
 ## License
 Copyright (c) [2022] [Karen Kanana]
 The application is open source, no lincense required.
@@ -40,6 +42,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+## Authors
+Name: Karen Kanana Muthomi
+Email: kananakaren21@gmail.com
+Mobile Number: +254798145990
+
 
 ## Support and contact details
 For any further clarification and support contact:

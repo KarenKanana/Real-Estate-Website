@@ -1,5 +1,8 @@
 # Vallie's Estate Landing page
+
+## Project Description
 This is an interactive landing page of a cloud-enabled, mobile-ready, interface compatible website that helps you find property of your choice based on location, property type and prices.
+
 
 ## Features
 
@@ -28,16 +31,14 @@ Vallie's Estate website landing page  uses the following tech to work properly:
 - Navigate to index.html file and open it in your browser.
 - Internet connection is needed to run index.html succesfully
 
-### How to run the application web link.
-- open the link https://karenkanana.github.io/Real-Estate-Website/ in your browser
-- The application is a web based application.
-- It requires user to have an internet connection
-- Any internet browser can run the application.
-- Use the above link on your browser to access the application.
+
+## Live Page
+> https://karenkanana.github.io/Real-Estate-Website/ 
 
 
 ## Copyright and license information
 >[MIT License](https://github.com/KarenKanana/Real-Estate-Website/blob/master/license)
+
 >Copyright (c) 2022 Karen Kanana
 
 
